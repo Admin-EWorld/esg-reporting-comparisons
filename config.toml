@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ESG Comparison Reports"
+theme = "simple-esg-theme"

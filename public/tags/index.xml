@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESG</title>
+      <link>https://example.org/tags/esg/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/esg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mid-Market</title>
+      <link>https://example.org/tags/mid-market/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/mid-market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Novata</title>
+      <link>https://example.org/tags/novata/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/novata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Private Equity</title>
+      <link>https://example.org/tags/private-equity/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/private-equity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pulsora</title>
+      <link>https://example.org/tags/pulsora/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/pulsora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sustain.Life</title>
+      <link>https://example.org/tags/sustain.life/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/sustain.life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workiva Alternative</title>
+      <link>https://example.org/tags/workiva-alternative/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/workiva-alternative/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
