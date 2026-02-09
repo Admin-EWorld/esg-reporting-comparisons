@@ -1,4 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://resonant-biscuit-42e347.netlify.app/"
 languageCode = "en-us"
 title = "ESG Comparison Reports"
 theme = "simple-esg-theme"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Trading Tools"
+    url = "/trading-tools/"
+    weight = 2
