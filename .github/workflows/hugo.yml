@@ -47,12 +47,13 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Hugo
         run: |
+          # The checkout action puts the repo at the root
+          # So we need to cd into the subfolder where the Hugo site lives
           cd esg-reports-site
           hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-          ls -R public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
