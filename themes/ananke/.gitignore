@@ -36,3 +36,6 @@ resources/_gen/
 
 # Build
 .wireit
+.favorites.json
+*.code-workspace
+config/gargulus
