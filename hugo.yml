@@ -47,15 +47,16 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Hugo
         run: |
-          # Hugo site is at the root of the repo
+          cd esg-reports-site
           hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+          ls -R public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./esg-reports-site/public
 
   # Deployment job
   deploy:
