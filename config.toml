@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "ESG Insights & Comparisons"
 theme = "ananke"
 
+# Ensure the build process sees the theme
+themesDir = "themes"
+
 resourceDir = "resources"
 
 [params]
