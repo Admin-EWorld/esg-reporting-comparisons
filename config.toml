@@ -1,4 +1,4 @@
-baseURL = "https://resonant-biscuit-42e347.netlify.app/"
+baseURL = "https://admin-eworld.github.io/esg-reporting-comparisons/"
 languageCode = "en-us"
 title = "ESG Comparison Reports"
 theme = "simple-esg-theme"
