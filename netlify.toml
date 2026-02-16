@@ -1,0 +1,9 @@
+# netlify.toml
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  # Explicitly set the Hugo version for the Netlify build environment
+  HUGO_VERSION = "0.116.0"

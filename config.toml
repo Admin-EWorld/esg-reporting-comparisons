@@ -1,0 +1,33 @@
+baseURL = "https://admin-eworld.github.io/esg-reporting-comparisons/"
+languageCode = "en-us"
+title = "ESG Insights & Comparisons"
+theme = "ananke"
+
+# Ensure the build process sees the theme
+themesDir = "themes"
+
+resourceDir = "resources"
+
+[params]
+  text_color = ""
+  author = "Sulman"
+  description = "Professional ESG reporting and comparison tools for traders and analysts."
+  # Use a dark blue/professional color scheme
+  background_color_class = "bg-navy"
+  featured_image = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2426"
+  recent_posts_number = 5
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Comparison Reports"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Trading Tools"
+  url = "/trading-tools/"
+  weight = 3
