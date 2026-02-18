@@ -1,6 +1,6 @@
 ---
 title: "Top Climatiq Alternatives for Small-Cap Technology Companies in 2026"
-date: 2026-02-18T10:00:00Z
+date: 2026-02-18T09:00:00Z
 draft: false
 tags: ["ESG Software", "Carbon Accounting", "Small-Cap", "Climatiq Alternatives"]
 categories: ["Comparisons"]
