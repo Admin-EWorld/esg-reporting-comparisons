@@ -1,4 +1,3 @@
-cheapest ESG software for SMB compliance
 GRI reporting tool for EU-based financial institutions
 best CSRD compliance software for non-EU companies
 SAP Sustainability Control Tower alternative for small teams
