@@ -2,6 +2,7 @@ baseURL = "https://admin-eworld.github.io/esg-reporting-comparisons/"
 languageCode = "en-us"
 title = "ESG Insights & Comparisons"
 theme = "ananke"
+googleAnalytics = "G-MX44QHWZ29"
 
 # Ensure the build process sees the theme
 themesDir = "themes"
