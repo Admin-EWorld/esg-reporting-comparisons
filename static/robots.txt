@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://admin-eworld.github.io/esg-reporting-comparisons/sitemap.xml
