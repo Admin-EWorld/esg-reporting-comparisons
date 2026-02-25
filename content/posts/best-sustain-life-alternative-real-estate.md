@@ -1,6 +1,6 @@
 ---
 title: "Best Sustain.Life Alternatives for Real Estate Portfolio Managers (2026)"
-date: 2026-02-25T10:00:00Z
+date: 2026-02-24T10:00:00Z
 draft: false
 tags: ["ESG Software", "Real Estate", "Sustainability", "GRESB", "Sustain.Life"]
 categories: ["Comparisons"]
